@@ -1,0 +1,19 @@
+{
+  "name": "incubyte_assesment",
+  "version": "1.0.0",
+  "description": "Incubyte Assesment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekarora-02/StringCalculatorKata-TDD.git"
+  },
+  "author": "vivek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekarora-02/StringCalculatorKata-TDD/issues"
+  },
+  "homepage": "https://github.com/vivekarora-02/StringCalculatorKata-TDD#readme"
+}
